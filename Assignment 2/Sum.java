@@ -6,7 +6,7 @@
 
 /**
  *
- * @author ARZANISH
+ * @author SAYAN
  */
 import java.util.*;
 public class Sum {
